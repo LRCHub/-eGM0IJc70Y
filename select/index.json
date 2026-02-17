@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ブリング・ミー・トゥ・ライフ",
+  "base_artist": "Evanescence",
+  "createdAt": "2026-02-17T10:43:15.147979Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bring Me To Life",
+      "artist": "Evanescence",
+      "has_synced": false,
+      "path": "select/pl_01_Bring_Me_To_Life_Evanescence.txt"
+    }
+  ]
+}
